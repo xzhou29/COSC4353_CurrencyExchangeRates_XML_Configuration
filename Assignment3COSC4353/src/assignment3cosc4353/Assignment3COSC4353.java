@@ -1,7 +1,4 @@
-/*
-11/30/2016
-Team Members: Xin Zhou, Xin Zhang
- */
+
 package assignment3cosc4353;
 
 import java.net.URL;
@@ -17,8 +14,8 @@ import java.util.*;
 
 
 /**
- *
- * @author XinZhou
+	11/30/2016
+	Team Members: Xin Zhou, Xin Zhang
  */
 public class Assignment3COSC4353 {
 
