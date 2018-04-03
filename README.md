@@ -1,7 +1,4 @@
-# COSC4353_XML_Configuration
-Assignment# 3
-
-Due Date: November 30, 2016 23:59:59
+# XML_Configuration
 
 Problem Statement: 
 ------------------
@@ -28,9 +25,3 @@ Design considerations:
 3. Make it user entry once you have working code.
 4. You will periodically check the rates, consider using a schedular.
 4. For notification, we will assume that there is a system that will be called to notify users. You only display on the screen if target has been reached.
-
-Deliverables:
---------------
-1. Software design document (SDD). Template is provided on class website. (40)
-2. Working code. You can include the code in SDD if that's what you prefer. (40)
-3. Demo with TA. Setup time with TA. (20)
